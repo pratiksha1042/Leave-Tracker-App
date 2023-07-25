@@ -1,0 +1,36 @@
+D:\TrainingRepos\Common\bin\Debug\Common.dll
+D:\TrainingRepos\Common\bin\Debug\Common.pdb
+D:\TrainingRepos\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\TrainingRepos\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\TrainingRepos\Common\obj\Debug\Common.dll
+D:\TrainingRepos\Common\obj\Debug\Common.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Common\bin\Debug\Common.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Common\bin\Debug\Common.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Common\obj\Debug\Common.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Common\obj\Debug\Common.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Common\bin\Debug\Common.dll
+D:\TrainingRepos\Solution\Solution\Solution\Common\bin\Debug\Common.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\TrainingRepos\Solution\Solution\Solution\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\TrainingRepos\Solution\Solution\Solution\Common\obj\Debug\Common.dll
+D:\TrainingRepos\Solution\Solution\Solution\Common\obj\Debug\Common.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Common\bin\Debug\Common.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Common\bin\Debug\Common.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Common\obj\Debug\Common.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Common\obj\Debug\Common.pdb
+D:\TrainingRepos\Solution\Solution\Common\bin\Debug\Common.dll
+D:\TrainingRepos\Solution\Solution\Common\bin\Debug\Common.pdb
+D:\TrainingRepos\Solution\Solution\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\TrainingRepos\Solution\Solution\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\TrainingRepos\Solution\Solution\Common\obj\Debug\Common.dll
+D:\TrainingRepos\Solution\Solution\Common\obj\Debug\Common.pdb
+D:\Demo\2_Last_Changes\Solution\Common\bin\Debug\Common.dll
+D:\Demo\2_Last_Changes\Solution\Common\bin\Debug\Common.pdb
+D:\Demo\2_Last_Changes\Solution\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Demo\2_Last_Changes\Solution\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Demo\2_Last_Changes\Solution\Common\obj\Debug\Common.dll
+D:\Demo\2_Last_Changes\Solution\Common\obj\Debug\Common.pdb

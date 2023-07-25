@@ -1,0 +1,979 @@
+D:\TrainingRepos\Leave App\obj\Debug\Leave App.csproj.AssemblyReference.cache
+D:\TrainingRepos\Leave App\obj\Debug\Leave App.csproj.CoreCompileInputs.cache
+D:\TrainingRepos\Leave App\bin\Leave App.dll.config
+D:\TrainingRepos\Leave App\bin\Leave App.dll
+D:\TrainingRepos\Leave App\bin\Leave App.pdb
+D:\TrainingRepos\Leave App\bin\roslyn\csc.exe
+D:\TrainingRepos\Leave App\bin\roslyn\csc.exe.config
+D:\TrainingRepos\Leave App\bin\roslyn\csc.rsp
+D:\TrainingRepos\Leave App\bin\roslyn\csi.exe
+D:\TrainingRepos\Leave App\bin\roslyn\csi.exe.config
+D:\TrainingRepos\Leave App\bin\roslyn\csi.rsp
+D:\TrainingRepos\Leave App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TrainingRepos\Leave App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TrainingRepos\Leave App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TrainingRepos\Leave App\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TrainingRepos\Leave App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TrainingRepos\Leave App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TrainingRepos\Leave App\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TrainingRepos\Leave App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TrainingRepos\Leave App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TrainingRepos\Leave App\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TrainingRepos\Leave App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TrainingRepos\Leave App\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.AppContext.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Collections.Immutable.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Console.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Globalization.Calendars.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.IO.Compression.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.IO.FileSystem.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Net.Http.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Net.Sockets.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Reflection.Metadata.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.ValueTuple.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Xml.XPath.dll
+D:\TrainingRepos\Leave App\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TrainingRepos\Leave App\bin\roslyn\vbc.exe
+D:\TrainingRepos\Leave App\bin\roslyn\vbc.exe.config
+D:\TrainingRepos\Leave App\bin\roslyn\vbc.rsp
+D:\TrainingRepos\Leave App\bin\roslyn\VBCSCompiler.exe
+D:\TrainingRepos\Leave App\bin\roslyn\VBCSCompiler.exe.config
+D:\TrainingRepos\Leave App\bin\Antlr3.Runtime.dll
+D:\TrainingRepos\Leave App\bin\AspNet.ScriptManager.jQuery.dll
+D:\TrainingRepos\Leave App\bin\Common.dll
+D:\TrainingRepos\Leave App\bin\Leave_BAL.dll
+D:\TrainingRepos\Leave App\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TrainingRepos\Leave App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TrainingRepos\Leave App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TrainingRepos\Leave App\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TrainingRepos\Leave App\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TrainingRepos\Leave App\bin\Microsoft.Web.Infrastructure.dll
+D:\TrainingRepos\Leave App\bin\Newtonsoft.Json.dll
+D:\TrainingRepos\Leave App\bin\System.Web.Optimization.dll
+D:\TrainingRepos\Leave App\bin\WebGrease.dll
+D:\TrainingRepos\Leave App\bin\Leave_DAL.dll
+D:\TrainingRepos\Leave App\bin\Common.pdb
+D:\TrainingRepos\Leave App\bin\Leave_BAL.pdb
+D:\TrainingRepos\Leave App\bin\Newtonsoft.Json.xml
+D:\TrainingRepos\Leave App\bin\System.Web.Optimization.xml
+D:\TrainingRepos\Leave App\bin\Antlr3.Runtime.pdb
+D:\TrainingRepos\Leave App\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TrainingRepos\Leave App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TrainingRepos\Leave App\bin\Leave_DAL.pdb
+D:\TrainingRepos\Leave App\obj\Debug\Leave App.csproj.CopyComplete
+D:\TrainingRepos\Leave App\obj\Debug\Leave App.dll
+D:\TrainingRepos\Leave App\obj\Debug\Leave App.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\obj\Debug\Leave App.csproj.AssemblyReference.cache
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\obj\Debug\Leave App.csproj.CoreCompileInputs.cache
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Leave App.dll.config
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Leave App.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Leave App.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\csc.exe
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\csc.exe.config
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\csc.rsp
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\csi.exe
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\csi.exe.config
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\csi.rsp
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.AppContext.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Console.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.IO.Compression.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Net.Http.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.ValueTuple.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\vbc.exe
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\vbc.exe.config
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\vbc.rsp
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\VBCSCompiler.exe
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Antlr3.Runtime.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Common.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Leave_BAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Localization.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Options.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.OpenApi.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Newtonsoft.Json.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Buffers.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.ComponentModel.Annotations.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Memory.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Numerics.Vectors.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Text.Encodings.Web.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Text.Json.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.ValueTuple.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Web.Optimization.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\WebGrease.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Leave_DAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Common.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Leave_BAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Localization.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Options.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.OpenApi.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.OpenApi.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Newtonsoft.Json.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Buffers.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Memory.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Numerics.Vectors.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Text.Encodings.Web.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Text.Json.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.ValueTuple.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\System.Web.Optimization.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Antlr3.Runtime.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\bin\Leave_DAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\obj\Debug\Leave App.csproj.CopyComplete
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\obj\Debug\Leave App.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave App\obj\Debug\Leave App.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Leave App.dll.config
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Leave App.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Leave App.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\csc.exe
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\csc.exe.config
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\csc.rsp
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\csi.exe
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\csi.exe.config
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\csi.rsp
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.AppContext.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Collections.Immutable.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Console.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Globalization.Calendars.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.IO.Compression.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.IO.FileSystem.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Net.Http.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Net.Sockets.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Reflection.Metadata.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.ValueTuple.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Xml.XPath.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\vbc.exe
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\vbc.exe.config
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\vbc.rsp
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\VBCSCompiler.exe
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\roslyn\VBCSCompiler.exe.config
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Antlr3.Runtime.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\AspNet.ScriptManager.jQuery.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Common.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Leave_BAL.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.StaticFiles.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyModel.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Localization.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.ObjectPool.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Options.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Primitives.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.WebEncoders.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Net.Http.Headers.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.OpenApi.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Web.Infrastructure.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Newtonsoft.Json.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Buffers.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.ComponentModel.Annotations.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Diagnostics.DiagnosticSource.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Memory.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Numerics.Vectors.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Text.Encodings.Web.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Text.Json.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Threading.Tasks.Extensions.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.ValueTuple.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Web.Optimization.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\WebGrease.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Leave_DAL.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Common.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Leave_BAL.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.StaticFiles.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Localization.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.ObjectPool.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Options.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.Primitives.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Extensions.WebEncoders.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.Net.Http.Headers.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.OpenApi.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.OpenApi.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Newtonsoft.Json.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Buffers.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Diagnostics.DiagnosticSource.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Memory.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Numerics.Vectors.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Text.Encodings.Web.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Text.Json.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Threading.Tasks.Extensions.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.ValueTuple.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\System.Web.Optimization.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Antlr3.Runtime.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\bin\Leave_DAL.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\obj\Debug\Leave App.csproj.AssemblyReference.cache
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\obj\Debug\Leave App.csproj.CoreCompileInputs.cache
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\obj\Debug\Leave App.csproj.CopyComplete
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\obj\Debug\Leave App.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave App\obj\Debug\Leave App.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Leave App.dll.config
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Leave App.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Leave App.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\csc.exe
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\csc.exe.config
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\csc.rsp
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\csi.exe
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\csi.exe.config
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\csi.rsp
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.AppContext.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Console.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.IO.Compression.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Net.Http.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.ValueTuple.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\vbc.exe
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\vbc.exe.config
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\vbc.rsp
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\VBCSCompiler.exe
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Antlr3.Runtime.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Common.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Leave_BAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Localization.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Options.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.OpenApi.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Newtonsoft.Json.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Buffers.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.ComponentModel.Annotations.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Memory.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Numerics.Vectors.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Text.Encodings.Web.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Text.Json.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.ValueTuple.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Web.Optimization.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\WebGrease.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Leave_DAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Common.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Leave_BAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Localization.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Options.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.OpenApi.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.OpenApi.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Newtonsoft.Json.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Buffers.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Memory.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Numerics.Vectors.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Text.Encodings.Web.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Text.Json.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.ValueTuple.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\System.Web.Optimization.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Antlr3.Runtime.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\bin\Leave_DAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\obj\Debug\Leave App.csproj.AssemblyReference.cache
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\obj\Debug\Leave App.csproj.CoreCompileInputs.cache
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\obj\Debug\Leave App.csproj.CopyComplete
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\obj\Debug\Leave App.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave App\obj\Debug\Leave App.pdb
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Leave App.dll.config
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Leave App.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Leave App.pdb
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\csc.exe
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\csc.exe.config
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\csc.rsp
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\csi.exe
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\csi.exe.config
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\csi.rsp
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.AppContext.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Collections.Immutable.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Console.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Globalization.Calendars.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.IO.Compression.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.IO.FileSystem.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Net.Http.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Net.Sockets.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Reflection.Metadata.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.ValueTuple.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Xml.XPath.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\vbc.exe
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\vbc.exe.config
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\vbc.rsp
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\VBCSCompiler.exe
+D:\TrainingRepos\Solution\Solution\Leave App\bin\roslyn\VBCSCompiler.exe.config
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Antlr3.Runtime.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\AspNet.ScriptManager.jQuery.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Common.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Leave_BAL.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.StaticFiles.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyModel.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Localization.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.ObjectPool.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Options.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Primitives.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.WebEncoders.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Net.Http.Headers.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.OpenApi.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Web.Infrastructure.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Newtonsoft.Json.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Buffers.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.ComponentModel.Annotations.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Diagnostics.DiagnosticSource.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Memory.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Numerics.Vectors.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Text.Encodings.Web.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Text.Json.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Threading.Tasks.Extensions.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.ValueTuple.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Web.Optimization.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\WebGrease.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Leave_DAL.dll
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Common.pdb
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Leave_BAL.pdb
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.StaticFiles.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Localization.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.ObjectPool.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Options.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.Primitives.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Extensions.WebEncoders.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.Net.Http.Headers.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.OpenApi.pdb
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.OpenApi.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Newtonsoft.Json.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.pdb
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.pdb
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.pdb
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Buffers.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Diagnostics.DiagnosticSource.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Memory.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Numerics.Vectors.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Text.Encodings.Web.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Text.Json.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Threading.Tasks.Extensions.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.ValueTuple.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\System.Web.Optimization.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Antlr3.Runtime.pdb
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TrainingRepos\Solution\Solution\Leave App\bin\Leave_DAL.pdb
+D:\TrainingRepos\Solution\Solution\Leave App\obj\Debug\Leave App.csproj.AssemblyReference.cache
+D:\TrainingRepos\Solution\Solution\Leave App\obj\Debug\Leave App.csproj.CoreCompileInputs.cache
+D:\TrainingRepos\Solution\Solution\Leave App\obj\Debug\Leave App.csproj.CopyComplete
+D:\TrainingRepos\Solution\Solution\Leave App\obj\Debug\Leave App.dll
+D:\TrainingRepos\Solution\Solution\Leave App\obj\Debug\Leave App.pdb
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Leave App.dll.config
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Leave App.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Leave App.pdb
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\csc.exe
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\csc.exe.config
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\csc.rsp
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\csi.exe
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\csi.exe.config
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\csi.rsp
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.AppContext.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Collections.Immutable.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Console.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Globalization.Calendars.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.IO.Compression.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.IO.FileSystem.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Net.Http.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Net.Sockets.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Reflection.Metadata.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.ValueTuple.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Xml.XPath.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\vbc.exe
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\vbc.exe.config
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\vbc.rsp
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\VBCSCompiler.exe
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\roslyn\VBCSCompiler.exe.config
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Antlr3.Runtime.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\AspNet.ScriptManager.jQuery.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Common.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Leave_BAL.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Http.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.StaticFiles.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Localization.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Options.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Primitives.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.WebEncoders.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Net.Http.Headers.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.OpenApi.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Web.Infrastructure.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Newtonsoft.Json.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Buffers.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.ComponentModel.Annotations.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Memory.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Numerics.Vectors.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Text.Encodings.Web.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Text.Json.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Threading.Tasks.Extensions.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.ValueTuple.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Web.Optimization.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\WebGrease.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Leave_DAL.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Common.pdb
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Leave_BAL.pdb
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Http.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.StaticFiles.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Localization.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Options.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.Primitives.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Extensions.WebEncoders.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.Net.Http.Headers.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.OpenApi.pdb
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.OpenApi.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Newtonsoft.Json.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.pdb
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Swashbuckle.AspNetCore.Swagger.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.pdb
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.pdb
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Buffers.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Memory.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Numerics.Vectors.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Text.Encodings.Web.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Text.Json.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Threading.Tasks.Extensions.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.ValueTuple.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\System.Web.Optimization.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Antlr3.Runtime.pdb
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Demo\2_Last_Changes\Solution\Leave App\bin\Leave_DAL.pdb
+D:\Demo\2_Last_Changes\Solution\Leave App\obj\Debug\Leave App.csproj.AssemblyReference.cache
+D:\Demo\2_Last_Changes\Solution\Leave App\obj\Debug\Leave App.csproj.CoreCompileInputs.cache
+D:\Demo\2_Last_Changes\Solution\Leave App\obj\Debug\Leave App.csproj.CopyComplete
+D:\Demo\2_Last_Changes\Solution\Leave App\obj\Debug\Leave App.dll
+D:\Demo\2_Last_Changes\Solution\Leave App\obj\Debug\Leave App.pdb

@@ -1,0 +1,78 @@
+D:\TrainingRepos\Leave_BAL\bin\Debug\Leave_BAL.dll
+D:\TrainingRepos\Leave_BAL\bin\Debug\Leave_BAL.pdb
+D:\TrainingRepos\Leave_BAL\bin\Debug\Common.dll
+D:\TrainingRepos\Leave_BAL\bin\Debug\Leave_DAL.dll
+D:\TrainingRepos\Leave_BAL\bin\Debug\Newtonsoft.Json.dll
+D:\TrainingRepos\Leave_BAL\bin\Debug\Common.pdb
+D:\TrainingRepos\Leave_BAL\bin\Debug\Leave_DAL.pdb
+D:\TrainingRepos\Leave_BAL\bin\Debug\Newtonsoft.Json.xml
+D:\TrainingRepos\Leave_BAL\obj\Debug\Leave_BAL.csproj.AssemblyReference.cache
+D:\TrainingRepos\Leave_BAL\obj\Debug\Leave_BAL.csproj.CoreCompileInputs.cache
+D:\TrainingRepos\Leave_BAL\obj\Debug\Leave_BAL.csproj.CopyComplete
+D:\TrainingRepos\Leave_BAL\obj\Debug\Leave_BAL.dll
+D:\TrainingRepos\Leave_BAL\obj\Debug\Leave_BAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\bin\Debug\Leave_BAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\bin\Debug\Leave_BAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\bin\Debug\Common.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\bin\Debug\Leave_DAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\bin\Debug\Common.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\bin\Debug\Leave_DAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.AssemblyReference.cache
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.CoreCompileInputs.cache
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.CopyComplete
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\bin\Debug\Leave_BAL.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\bin\Debug\Leave_BAL.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\bin\Debug\Common.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\bin\Debug\Leave_DAL.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\bin\Debug\Newtonsoft.Json.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\bin\Debug\Common.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\bin\Debug\Leave_DAL.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\bin\Debug\Newtonsoft.Json.xml
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.AssemblyReference.cache
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.CoreCompileInputs.cache
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.CopyComplete
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\bin\Debug\Leave_BAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\bin\Debug\Leave_BAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\bin\Debug\Common.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\bin\Debug\Leave_DAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\bin\Debug\Common.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\bin\Debug\Leave_DAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.AssemblyReference.cache
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.CoreCompileInputs.cache
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.CopyComplete
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\obj\Debug\Leave_BAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_BAL\obj\Debug\Leave_BAL.pdb
+D:\TrainingRepos\Solution\Solution\Leave_BAL\bin\Debug\Leave_BAL.dll
+D:\TrainingRepos\Solution\Solution\Leave_BAL\bin\Debug\Leave_BAL.pdb
+D:\TrainingRepos\Solution\Solution\Leave_BAL\bin\Debug\Common.dll
+D:\TrainingRepos\Solution\Solution\Leave_BAL\bin\Debug\Leave_DAL.dll
+D:\TrainingRepos\Solution\Solution\Leave_BAL\bin\Debug\Newtonsoft.Json.dll
+D:\TrainingRepos\Solution\Solution\Leave_BAL\bin\Debug\Common.pdb
+D:\TrainingRepos\Solution\Solution\Leave_BAL\bin\Debug\Leave_DAL.pdb
+D:\TrainingRepos\Solution\Solution\Leave_BAL\bin\Debug\Newtonsoft.Json.xml
+D:\TrainingRepos\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.AssemblyReference.cache
+D:\TrainingRepos\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.CoreCompileInputs.cache
+D:\TrainingRepos\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.CopyComplete
+D:\TrainingRepos\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.dll
+D:\TrainingRepos\Solution\Solution\Leave_BAL\obj\Debug\Leave_BAL.pdb
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\bin\Debug\Leave_BAL.dll
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\bin\Debug\Leave_BAL.pdb
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\bin\Debug\Common.dll
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\bin\Debug\Leave_DAL.dll
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\bin\Debug\Common.pdb
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\bin\Debug\Leave_DAL.pdb
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\bin\Debug\Newtonsoft.Json.xml
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.AssemblyReference.cache
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.CoreCompileInputs.cache
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\obj\Debug\Leave_BAL.csproj.CopyComplete
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\obj\Debug\Leave_BAL.dll
+D:\Demo\2_Last_Changes\Solution\Leave_BAL\obj\Debug\Leave_BAL.pdb

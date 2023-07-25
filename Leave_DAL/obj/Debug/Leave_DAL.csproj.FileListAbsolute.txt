@@ -1,0 +1,54 @@
+D:\TrainingRepos\Leave_DAL\bin\Debug\Leave_DAL.dll
+D:\TrainingRepos\Leave_DAL\bin\Debug\Leave_DAL.pdb
+D:\TrainingRepos\Leave_DAL\bin\Debug\Common.dll
+D:\TrainingRepos\Leave_DAL\bin\Debug\Common.pdb
+D:\TrainingRepos\Leave_DAL\obj\Debug\Leave_DAL.csproj.AssemblyReference.cache
+D:\TrainingRepos\Leave_DAL\obj\Debug\Leave_DAL.csproj.CoreCompileInputs.cache
+D:\TrainingRepos\Leave_DAL\obj\Debug\Leave_DAL.csproj.CopyComplete
+D:\TrainingRepos\Leave_DAL\obj\Debug\Leave_DAL.dll
+D:\TrainingRepos\Leave_DAL\obj\Debug\Leave_DAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_DAL\bin\Debug\Leave_DAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_DAL\bin\Debug\Leave_DAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_DAL\bin\Debug\Common.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_DAL\bin\Debug\Common.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.AssemblyReference.cache
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.CoreCompileInputs.cache
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.CopyComplete
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave_DAL\bin\Debug\Leave_DAL.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave_DAL\bin\Debug\Leave_DAL.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave_DAL\bin\Debug\Common.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave_DAL\bin\Debug\Common.pdb
+D:\TrainingRepos\Solution\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.AssemblyReference.cache
+D:\TrainingRepos\Solution\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.CoreCompileInputs.cache
+D:\TrainingRepos\Solution\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.CopyComplete
+D:\TrainingRepos\Solution\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.dll
+D:\TrainingRepos\Solution\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_DAL\bin\Debug\Leave_DAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_DAL\bin\Debug\Leave_DAL.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_DAL\bin\Debug\Common.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_DAL\bin\Debug\Common.pdb
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.AssemblyReference.cache
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.CoreCompileInputs.cache
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.CopyComplete
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_DAL\obj\Debug\Leave_DAL.dll
+C:\Users\rohit_Sawant1\Downloads\Solution (1)\Solution\Leave_DAL\obj\Debug\Leave_DAL.pdb
+D:\TrainingRepos\Solution\Solution\Leave_DAL\bin\Debug\Leave_DAL.dll
+D:\TrainingRepos\Solution\Solution\Leave_DAL\bin\Debug\Leave_DAL.pdb
+D:\TrainingRepos\Solution\Solution\Leave_DAL\bin\Debug\Common.dll
+D:\TrainingRepos\Solution\Solution\Leave_DAL\bin\Debug\Common.pdb
+D:\TrainingRepos\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.AssemblyReference.cache
+D:\TrainingRepos\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.CoreCompileInputs.cache
+D:\TrainingRepos\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.CopyComplete
+D:\TrainingRepos\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.dll
+D:\TrainingRepos\Solution\Solution\Leave_DAL\obj\Debug\Leave_DAL.pdb
+D:\Demo\2_Last_Changes\Solution\Leave_DAL\bin\Debug\Leave_DAL.dll
+D:\Demo\2_Last_Changes\Solution\Leave_DAL\bin\Debug\Leave_DAL.pdb
+D:\Demo\2_Last_Changes\Solution\Leave_DAL\bin\Debug\Common.dll
+D:\Demo\2_Last_Changes\Solution\Leave_DAL\bin\Debug\Common.pdb
+D:\Demo\2_Last_Changes\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.AssemblyReference.cache
+D:\Demo\2_Last_Changes\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.CoreCompileInputs.cache
+D:\Demo\2_Last_Changes\Solution\Leave_DAL\obj\Debug\Leave_DAL.csproj.CopyComplete
+D:\Demo\2_Last_Changes\Solution\Leave_DAL\obj\Debug\Leave_DAL.dll
+D:\Demo\2_Last_Changes\Solution\Leave_DAL\obj\Debug\Leave_DAL.pdb
